@@ -1,0 +1,10 @@
+<p>This is a paragraph.</p>        <!-- <p> opening, </p> closing -->
+<h1>Heading</h1>                   <!-- <h1> opening, </h1> closing -->
+<div>
+    <p>Nested paragraph.</p>
+</div>
+<a href="https://example.com">Link</a>
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+</ul>
